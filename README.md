@@ -464,22 +464,35 @@ Use these when you’re past the onboarding flow and want the deeper reference.
 ## Workspace & skills
 
 - [Skills config](https://docs.openclaw.ai/tools/skills-config)
+
 - [Default AGENTS](https://docs.openclaw.ai/reference/AGENTS.default)
+
 - [Templates: AGENTS](https://docs.openclaw.ai/reference/templates/AGENTS)
+
 - [Templates: BOOTSTRAP](https://docs.openclaw.ai/reference/templates/BOOTSTRAP)
+
 - [Templates: IDENTITY](https://docs.openclaw.ai/reference/templates/IDENTITY)
+
 - [Templates: SOUL](https://docs.openclaw.ai/reference/templates/SOUL)
+
 - [Templates: TOOLS](https://docs.openclaw.ai/reference/templates/TOOLS)
+
 - [Templates: USER](https://docs.openclaw.ai/reference/templates/USER)
 
 ## Platform internals
 
 - [macOS dev setup](https://docs.openclaw.ai/platforms/mac/dev-setup)
+
 - [macOS menu bar](https://docs.openclaw.ai/platforms/mac/menu-bar)
+
 - [macOS voice wake](https://docs.openclaw.ai/platforms/mac/voicewake)
+
 - [iOS node](https://docs.openclaw.ai/platforms/ios)
+
 - [Android node](https://docs.openclaw.ai/platforms/android)
+
 - [Windows (WSL2)](https://docs.openclaw.ai/platforms/windows)
+
 - [Linux app](https://docs.openclaw.ai/platforms/linux)
 
 ## Email hooks (Gmail)
@@ -492,8 +505,11 @@ OpenClaw was built for **Molty**, a space lobster AI assistant. 🦞
 by Peter Steinberger and the community.
 
 - [openclaw.ai](https://openclaw.ai)
+
 - [soul.md](https://soul.md)
+
 - [steipete.me](https://steipete.me)
+
 - [@openclaw](https://x.com/openclaw)
 
 ## Community
